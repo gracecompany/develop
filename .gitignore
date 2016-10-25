@@ -12,6 +12,7 @@
 /.phpintel
 /.idea
 .git/
+/public/*
 /vendor
 /node_modules
 Homestead.yaml
