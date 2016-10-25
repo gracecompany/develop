@@ -72,9 +72,12 @@ Grace Manager & CMS
 
 ## Screenshots
 
-<img src="/public/temp/ManagerLogin.png" width="900" />
-<img src="/screenshots/3.png" width="900" />
-<img src="/screenshots/4.png" width="900" />
+<img src="https://github.com/gracecompany/develop/blob/master/public/temp/ManagerLogin.png" width="900" />
+<img src="https://github.com/gracecompany/develop/blob/master/public/temp/GraceAdmin.png" width="900" />
+<img src="https://github.com/gracecompany/develop/blob/master/public/temp/BlogManager.png" width="900" />
+<img src="https://github.com/gracecompany/develop/blob/master/public/temp/ProductManager.png" width="900" />
+<img src="https://github.com/gracecompany/develop/blob/master/public/temp/DeveloperLogViewer.png" width="900" />
+<img src="https://github.com/gracecompany/develop/blob/master/public/temp/developer-tool-route-reference-by-phillip-madsen.png" width="900" />
 
 
 
