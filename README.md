@@ -5,7 +5,7 @@ Grace Manager & CMS
 
 ## not stable!
 
-<img src="https://github.com/gracecompany/develop/blob/master/public/temp/ProductManager.png" width="900" />
+![productmanager](https://cloud.githubusercontent.com/assets/12836331/19670638/2ea59aca-9a26-11e6-9cfd-49828c1ba079.png)
 
 ## Features
 
@@ -69,15 +69,14 @@ Grace Manager & CMS
   * Breadcrumbs
 
 
-
 ## Screenshots
 
-<img src="https://github.com/gracecompany/develop/blob/master/public/temp/ManagerLogin.png" width="900" />
-<img src="https://github.com/gracecompany/develop/blob/master/public/temp/GraceAdmin.png" width="900" />
-<img src="https://github.com/gracecompany/develop/blob/master/public/temp/BlogManager.png" width="900" />
-<img src="https://github.com/gracecompany/develop/blob/master/public/temp/ProductManager.png" width="900" />
-<img src="https://github.com/gracecompany/develop/blob/master/public/temp/DeveloperLogViewer.png" width="900" />
-<img src="https://github.com/gracecompany/develop/blob/master/public/temp/developer-tool-route-reference-by-phillip-madsen.png" width="900" />
+![managerlogin](https://cloud.githubusercontent.com/assets/12836331/19670641/2ea71ef4-9a26-11e6-891c-a987afd5a7e7.png)
+![graceadmin](https://cloud.githubusercontent.com/assets/12836331/19670639/2ea59200-9a26-11e6-939d-70ddebe543b4.png)
+![blogmanager](https://cloud.githubusercontent.com/assets/12836331/19670642/2ea9cef6-9a26-11e6-9af5-dd1117f39423.png)
+![productmanager](https://cloud.githubusercontent.com/assets/12836331/19670638/2ea59aca-9a26-11e6-9cfd-49828c1ba079.png)
+![developerlogviewer](https://cloud.githubusercontent.com/assets/12836331/19670637/2ea520fe-9a26-11e6-8ee6-2f26e4f9fa95.png)
+![developer-tool-route-reference-by-phillip-madsen](https://cloud.githubusercontent.com/assets/12836331/19670640/2ea5d044-9a26-11e6-8ab7-1ea5371f19bc.png)
 
 ## Layout Overview TreeView
 
