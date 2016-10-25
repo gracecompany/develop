@@ -138,16 +138,56 @@ Grace Manager & CMS
 4. Add the service providers to the providers array in `{root}\config\app.php`
 
     ```php
-    ...
 
-    ...
+       /*
+        |--------------------------------------------------------------------------
+        | phillips custom Service Providers
+        |--------------------------------------------------------------------------*/
+
+        App\Providers\RepositoryServiceProvider::class,
+        App\Providers\ComposerServiceProvider::class,
+        App\Providers\FeederServiceProvider::class,
+        App\Providers\SearchServiceProvider::class,
+
+        /*
+        |--------------------------------------------------------------------------
+        | phillips custom services
+        |--------------------------------------------------------------------------*/
+
+        Cartalyst\Sentinel\Laravel\SentinelServiceProvider::class,
+        Intervention\Image\ImageServiceProvider::class,
+        Mcamara\LaravelLocalization\LaravelLocalizationServiceProvider::class,
+        Barryvdh\Debugbar\ServiceProvider::class,
+        Cviebrock\EloquentSluggable\SluggableServiceProvider::class,
+        DaveJamesMiller\Breadcrumbs\ServiceProvider::class,
+        Laracasts\Flash\FlashServiceProvider::class,
+        Rap2hpoutre\LaravelLogViewer\LaravelLogViewerServiceProvider::class,
+        Sseffa\VideoApi\VideoApiServiceProvider::class,
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
+        Caffeinated\Menus\MenusServiceProvider::class,
+        Beaudierman\Ups\UpsServiceProvider::class,
+
     ```
 5. Add the following aliases in `{root}\config\app.php`
 
     ```php
-    ...
-
-    ...
+        'HTML'                => Collective\Html\HtmlFacade::class,
+        'Html'                => Collective\Html\HtmlFacade::class,
+        'Activation'          => Cartalyst\Sentinel\Laravel\Facades\Activation::class,
+        'Reminder'            => Cartalyst\Sentinel\Laravel\Facades\Reminder::class,
+        'Sentinel'            => Cartalyst\Sentinel\Laravel\Facades\Sentinel::class,
+        'Image'               => Intervention\Image\Facades\Image::class,
+        'LaravelLocalization' => Mcamara\LaravelLocalization\Facades\LaravelLocalization::class,
+        'Debugbar'            => Barryvdh\Debugbar\Facade::class,
+        'Breadcrumbs'         => DaveJamesMiller\Breadcrumbs\Facade::class,
+        'Flash'               => Laracasts\Flash\Flash::class,
+        'VideoApi'            => Sseffa\VideoApi\Facades\VideoApi::class,
+        'Feeder'              => App\Feeder\Facade\Feeder::class,
+        'Search'              => App\Search\Facade\Search::class,
+        'Str'                 => Illuminate\Support\Str::class,
+        'Ups'                 => Beaudierman\Ups\Facades\Ups::class,
+        'Menu'                => Caffeinated\Menus\Facades\Menu::class,
+        'Uuid'                => Webpatser\Uuid\Uuid::class,
     ```
 
 ## Contributing
