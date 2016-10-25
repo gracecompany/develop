@@ -5,7 +5,7 @@ Grace Manager & CMS
 
 ## not stable!
 
-<img src="/screenshots/1.png" width="900" />
+<img src="https://github.com/gracecompany/develop/blob/master/public/temp/ProductManager.png" width="900" />
 
 ## Features
 
@@ -25,17 +25,17 @@ Grace Manager & CMS
   * Manage news
   * Careers
   * FAQs
-    * interactive forms 
+    * interactive forms
   * Chat Comming Soon
-  * Users 
+  * Users
     * Roles
     * permissions
     * account management
-  * Warehouse 
-    * manager 
-    * storage 
-    * products 
-    * identifiers 
+  * Warehouse
+    * manager
+    * storage
+    * products
+    * identifiers
     * quantity
   * eCommerce shop coupons best_sellers etc
     * HR manager
@@ -46,7 +46,7 @@ Grace Manager & CMS
   * Google analytics
   * schema Implementation
     * microdata
-    * json-ltd 
+    * json-ltd
   * Standard SEO Implementation
   * Google tag manager Implementation
   * Manage photo gallery
@@ -79,7 +79,13 @@ Grace Manager & CMS
 <img src="https://github.com/gracecompany/develop/blob/master/public/temp/DeveloperLogViewer.png" width="900" />
 <img src="https://github.com/gracecompany/develop/blob/master/public/temp/developer-tool-route-reference-by-phillip-madsen.png" width="900" />
 
+## Layout Overview TreeView
 
+  [GitHub]/gracecompany/develop/GraceWebsiteTreeLayout.md
+
+## Task List
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 ## Requirements
 
