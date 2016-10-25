@@ -84,8 +84,11 @@ Grace Manager & CMS
   [GitHub]/gracecompany/develop/GraceWebsiteTreeLayout.md
 
 ## Task List
-- [x] This is a complete item
-- [ ] This is an incomplete item
+- [] Finish Cart and Checkout
+- [] Add These Pages
+  - [] Qni 21"
+  - [] Qni Features
+  - [] Luminescent
 
 ## Requirements
 
